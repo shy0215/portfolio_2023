@@ -1,2 +1,2 @@
-# profile_2023
+# portfolio_2023
 reactjs + threejs
